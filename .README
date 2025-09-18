@@ -1,0 +1,7 @@
+DAN、DAN_PARM是对dan网络的复现
+res_parm是对残差网络的调优
+DATA_STRENGTHEN及main_RESNET分别是数据增强后和数据增强前的resnet
+
+模型存储结果过大没有放在文件夹中，如有需要可以配置torch及torchvison后生成
+
+./RAF为数据集
